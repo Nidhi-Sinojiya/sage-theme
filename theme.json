@@ -1,0 +1,250 @@
+{
+  "__generated__": "⚠️ This file is generated. Do not edit.",
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "color": {
+      "custom": false,
+      "customGradient": false,
+      "defaultPalette": false,
+      "defaultGradients": false,
+      "palette": [
+        {
+          "name": "Transparent",
+          "slug": "transparent",
+          "color": "transparent"
+        },
+        {
+          "name": "White",
+          "slug": "white",
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red",
+          "slug": "red",
+          "color": "#a35e57"
+        },
+        {
+          "name": "Green",
+          "slug": "green",
+          "color": "#5a664d"
+        },
+        {
+          "name": "Lightgreen",
+          "slug": "lightgreen",
+          "color": "#8f936f"
+        },
+        {
+          "name": "Blue",
+          "slug": "blue",
+          "color": "#50607f"
+        },
+        {
+          "name": "Darkblue",
+          "slug": "darkblue",
+          "color": "#455055"
+        },
+        {
+          "name": "Lightsavanna",
+          "slug": "lightsavanna",
+          "color": "#f4f1ed"
+        },
+        {
+          "name": "Slateblue",
+          "slug": "slateblue",
+          "color": "#50607f"
+        },
+        {
+          "name": "Slatered",
+          "slug": "slatered",
+          "color": "#866f6d"
+        },
+        {
+          "name": "Gold",
+          "slug": "gold",
+          "color": "#8f734b"
+        },
+        {
+          "name": "Cadet",
+          "slug": "cadet",
+          "color": "#173b57"
+        },
+        {
+          "name": "Brown",
+          "slug": "brown",
+          "color": "#48423e"
+        },
+        {
+          "name": "Black 100",
+          "slug": "black-100",
+          "color": "#000000"
+        },
+        {
+          "name": "Black 200",
+          "slug": "black-200",
+          "color": "#191919"
+        },
+        {
+          "name": "Black 300",
+          "slug": "black-300",
+          "color": "#444443"
+        },
+        {
+          "name": "Gray 100",
+          "slug": "gray-100",
+          "color": "#e6e1da"
+        },
+        {
+          "name": "Gray 200",
+          "slug": "gray-200",
+          "color": "#727275"
+        },
+        {
+          "name": "Gray 300",
+          "slug": "gray-300",
+          "color": "#dadada"
+        },
+        {
+          "name": "Gray 400",
+          "slug": "gray-400",
+          "color": "#c7c7c7"
+        }
+      ]
+    },
+    "custom": {
+      "spacing": {},
+      "typography": {
+        "font-size": {},
+        "line-height": {}
+      }
+    },
+    "spacing": {
+      "padding": true,
+      "units": [
+        "px",
+        "%",
+        "em",
+        "rem",
+        "vw",
+        "vh"
+      ]
+    },
+    "typography": {
+      "customFontSize": false,
+      "fontFamilies": [
+        {
+          "name": "Manrope",
+          "slug": "primary",
+          "fontFamily": "Manrope"
+        },
+        {
+          "name": "NewYork",
+          "slug": "heading",
+          "fontFamily": "NewYork"
+        }
+      ],
+      "fontSizes": [
+        {
+          "name": "10",
+          "slug": "10",
+          "size": "10px"
+        },
+        {
+          "name": "11",
+          "slug": "11",
+          "size": "11px"
+        },
+        {
+          "name": "12",
+          "slug": "12",
+          "size": "12px"
+        },
+        {
+          "name": "13",
+          "slug": "13",
+          "size": "13px"
+        },
+        {
+          "name": "14",
+          "slug": "14",
+          "size": "14px"
+        },
+        {
+          "name": "15",
+          "slug": "15",
+          "size": "15px"
+        },
+        {
+          "name": "16",
+          "slug": "16",
+          "size": "16px"
+        },
+        {
+          "name": "18",
+          "slug": "18",
+          "size": "18px"
+        },
+        {
+          "name": "20",
+          "slug": "20",
+          "size": "20px"
+        },
+        {
+          "name": "21",
+          "slug": "21",
+          "size": "21px"
+        },
+        {
+          "name": "24",
+          "slug": "24",
+          "size": "24px"
+        },
+        {
+          "name": "25",
+          "slug": "25",
+          "size": "25px"
+        },
+        {
+          "name": "28",
+          "slug": "28",
+          "size": "28px"
+        },
+        {
+          "name": "30",
+          "slug": "30",
+          "size": "30px"
+        },
+        {
+          "name": "32",
+          "slug": "32",
+          "size": "32px"
+        },
+        {
+          "name": "36",
+          "slug": "36",
+          "size": "36px"
+        },
+        {
+          "name": "40",
+          "slug": "40",
+          "size": "40px"
+        },
+        {
+          "name": "45",
+          "slug": "45",
+          "size": "45px"
+        },
+        {
+          "name": "48",
+          "slug": "48",
+          "size": "48px"
+        },
+        {
+          "name": "66",
+          "slug": "66",
+          "size": "66px"
+        }
+      ]
+    }
+  }
+}
